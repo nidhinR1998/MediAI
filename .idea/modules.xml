@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MediAI.iml" filepath="$PROJECT_DIR$/MediAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MediAI.iml" filepath="$PROJECT_DIR$/.idea/MediAI.iml" />
     </modules>
   </component>
 </project>
